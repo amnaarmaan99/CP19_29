@@ -1,0 +1,11 @@
+#task2
+name=input("enter ur name=")
+semester=input("enter ur semester=")
+program=input("enter program=")
+regestration=input("enter regestration")
+
+email=(semester[2:4]+program[0:4]+regestration[0:4])
+password=name
+print("email=" , email,"@maju.edu.pk")
+print("password=" , password)          
+                 
