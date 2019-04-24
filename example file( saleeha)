@@ -1,0 +1,14 @@
+num=int(input("enter 5 number"))
+a=num
+def reverse(num):
+  rem=0
+  while(num>0):
+    rem=(rem*10)+num%10
+    num= num//10
+  print(rem , end="")
+if (a==rem):
+  print("not reverse")
+else:
+  print("reverse")
+    
+reverse(num)
