@@ -1,0 +1,6 @@
+PROJECT NAME: MOTION DETECTION USING RASPBERRY PI
+NAMES OF GROUP MEMBER AND THEIR TASK:
+
+bootable operating system [done by: warisha and saleeha]
+image detection using opencv and web-cam-interface [ done by: amna and dilawaiz]
+buzzer indication and text to speech [ farhaj ]
