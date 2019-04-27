@@ -1,6 +1,0 @@
-email="user123@gmail.com"
-password=int(input("enter password\t"))
-if(password==1234):
-    print("welcome user")
-else:
-     print("incorrect password")

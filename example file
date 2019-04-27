@@ -1,7 +1,6 @@
-import pyttsx3
-engine=pyttsx3.init()
-question=input("give any string : ")
-while(question!="exit"):
-    engine.say(question)
-    engine.runAndWait()
-    question=input("give any string OR type exit to quit : ")
+email="user123@gmail.com"
+password=int(input("enter password\t"))
+if(password==1234):
+    print("welcome user")
+else:
+     print("incorrect password")
