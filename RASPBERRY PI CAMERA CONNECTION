@@ -1,0 +1,9 @@
+Sir i am a little bit confuse that cant we connect the raspberry pi somehow to laptop to use the laptop's camera?
+i think that we cant do this because how can we run two operating systems at the same time? ie raspbian and windows? 
+i think it is necessary to have a separate camera because as we are doing motion detection using raspberry pi its completely
+different from having a code in jupyter notebook and then running it using a laptops camera because it wasnt include
+raspberry pi in it..
+so is it final to have a separate camera and attaching it to raspberry pi and detecting motion by it?
+one thing more that ive learnt about raspberry pi that raspbian operating system will be installed in pc then we ll
+convert it into the SD card and then SD card will be put in raspberry pi.. so do we use the same method for the transference
+of code or anything else?
