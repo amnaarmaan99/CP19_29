@@ -1,0 +1,4 @@
+FINAL LIBRARIES EXPLORED UPTILL NOW:
+from gpiozero import button and motion sensor
+from pi camera import picamamre
+from time import sleep from signal import pause
